@@ -29,25 +29,25 @@ const Gallery = () => {
 
   const photos = [
     {
-      src: 'https://assets.maccarianagency.com/backgrounds/img25.jpg',
+      src: 'https://static.wixstatic.com/media/e68753_35f9b456b15a47c29f1d2d19b06c8fd5~mv2.jpg/v1/fill/w_1680,h_752,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e68753_35f9b456b15a47c29f1d2d19b06c8fd5~mv2.jpg',
       source: 'https://assets.maccarianagency.com/backgrounds/img25.jpg',
       rows: 1,
       cols: 2,
     },
     {
-      src: 'https://assets.maccarianagency.com/backgrounds/img22.jpg',
+      src: 'https://static.wixstatic.com/media/e68753_2ecdb6cb7d394097bd6c9b57961a9831~mv2.jpg/v1/fill/w_1680,h_752,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e68753_2ecdb6cb7d394097bd6c9b57961a9831~mv2.jpg',
       source: 'https://assets.maccarianagency.com/backgrounds/img22.jpg',
       rows: 1,
       cols: 1,
     },
     {
-      src: 'https://assets.maccarianagency.com/backgrounds/img24.jpg',
+      src: 'https://static.wixstatic.com/media/e68753_03cc21fee12e43f1baf56a72394e1179~mv2.jpg/v1/fill/w_1680,h_752,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e68753_03cc21fee12e43f1baf56a72394e1179~mv2.jpg',
       source: 'https://assets.maccarianagency.com/backgrounds/img24.jpg',
       rows: 1,
       cols: 1,
     },
     {
-      src: 'https://assets.maccarianagency.com/backgrounds/img21.jpg',
+      src: 'https://static.wixstatic.com/media/29b57f_ac73bb8385544e51990fee6ecf5921cb~mv2.jpg/v1/fill/w_960,h_430,al_c,q_85,enc_auto/29b57f_ac73bb8385544e51990fee6ecf5921cb~mv2.jpg',
       source: 'https://assets.maccarianagency.com/backgrounds/img21.jpg',
       rows: 1,
       cols: 2,

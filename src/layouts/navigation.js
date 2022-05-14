@@ -74,50 +74,50 @@ const pages = {
     },
   ],
   company: [
+    // {
+    //   title: 'Career Lising',
+    //   href: '/career-listing',
+    // },
+    // {
+    //   title: 'Job Opening',
+    //   href: '/career-opening',
+    // },
+    // {
+    //   title: 'Customer Stories',
+    //   href: '/customers',
+    // },
+    // {
+    //   title: 'Hire Us',
+    //   href: '/hire-us',
+    // },
     {
-      title: 'Career Lising',
-      href: '/career-listing',
-    },
-    {
-      title: 'Job Opening',
-      href: '/career-opening',
-    },
-    {
-      title: 'Customer Stories',
-      href: '/customers',
-    },
-    {
-      title: 'Hire Us',
-      href: '/hire-us',
-    },
-    {
-      title: 'About: Startup',
+      title: 'About Us',
       href: '/about-side-cover',
     },
+    // {
+    //   title: 'About',
+    //   href: '/about',
+    // },
+    // {
+    //   title: 'Pricing',
+    //   href: '/pricing',
+    // },
+    // {
+    //   title: 'Terms',
+    //   href: '/company-terms',
+    // },
+    // {
+    //   title: 'Contact: Map',
+    //   href: '/contact-sidebar-map',
+    // },
     {
-      title: 'About',
-      href: '/about',
-    },
-    {
-      title: 'Pricing',
-      href: '/pricing',
-    },
-    {
-      title: 'Terms',
-      href: '/company-terms',
-    },
-    {
-      title: 'Contact: Map',
-      href: '/contact-sidebar-map',
-    },
-    {
-      title: 'Contact: Minimal',
+      title: 'Contact Us',
       href: '/contact-page-cover',
     },
-    {
-      title: 'Contact: Startup',
-      href: '/contact-page',
-    },
+    // {
+    //   title: 'Contact: Startup',
+    //   href: '/contact-page',
+    // },
   ],
   account: [
     {

@@ -26,7 +26,7 @@ const mock = [
   },
   {
     label: 'Email',
-    value: 'hi@maccarianagency.com',
+    value: 'chmbibletheater@outlook.com',
     icon: (
       <svg
         width={20}
@@ -42,7 +42,7 @@ const mock = [
   },
   {
     label: 'Address',
-    value: 'Via Venini 33, 20147',
+    value: '304 S. Race St. Urbana, IL',
     icon: (
       <svg
         width={20}

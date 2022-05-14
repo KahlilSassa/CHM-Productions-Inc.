@@ -42,12 +42,10 @@ const Headline = () => {
           align={'center'}
           gutterBottom
         >
-          We take you by hand on each step of the process
+          We cater to the development of the arts.
         </Typography>
         <Typography variant="h6" color={'text.secondary'} align={'center'}>
-          As experts in both design & development, we help you go through the
-          complete process. From your new website idea, to design, development,
-          launch and scale!
+          Experts in both theater & development, we make sizeable impacts within the community.
         </Typography>
       </Box>
     </Box>

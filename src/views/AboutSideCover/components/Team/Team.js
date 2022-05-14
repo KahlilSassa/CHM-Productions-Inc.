@@ -14,29 +14,29 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 
 const mock = [
   {
-    name: 'Chary Smith',
-    title: 'SEO at Comoti',
-    avatar: 'https://assets.maccarianagency.com/avatars/img3.jpg',
+    name: 'Crystal Hogue',
+    title: 'CEO',
+    avatar: 'https://scontent-ort2-1.xx.fbcdn.net/v/t1.18169-9/11951952_10205948931260031_6251968212727178816_n.jpg?_nc_cat=111&ccb=1-6&_nc_sid=174925&_nc_ohc=IokkowDoxskAX8AF0ix&tn=pNmi5Ypt4CZ4Wqur&_nc_ht=scontent-ort2-1.xx&oh=00_AT_-ZZs45daQ9qP8E_GhdBJH13AukBOdLurH3WeDXF9tIg&oe=62A6AFA8',
     about:
       'I am an ambitious workaholic, but apart from that, pretty simple person.',
   },
   {
-    name: 'Clara Bertoletti',
-    title: 'Junior Designer',
+    name: 'Charles Hogue',
+    title: 'Advisor',
     avatar: 'https://assets.maccarianagency.com/avatars/img4.jpg',
     about:
       'I am an ambitious workaholic, but apart from that, pretty simple person.',
   },
   {
-    name: 'Jhon Anderson',
+    name: 'Deborah Morgan',
     title: 'Senior Frontend Developer',
-    avatar: 'https://assets.maccarianagency.com/avatars/img5.jpg',
+    avatar: 'https://media-exp1.licdn.com/dms/image/C4E03AQGy8Ne5x3gAsQ/profile-displayphoto-shrink_800_800/0/1549047665401?e=1657756800&v=beta&t=gitC7PFIXelcramRZglaa4Gu95qryq0nWWmcuew63Ak',
     about:
       'I am an ambitious workaholic, but apart from that, pretty simple person.',
   },
   {
-    name: 'Chary Smith',
-    title: 'SEO at Comoti',
+    name: 'RH Duncan Jr.',
+    title: 'Board',
     avatar: 'https://assets.maccarianagency.com/avatars/img6.jpg',
     about:
       'I am an ambitious workaholic, but apart from that, pretty simple person.',
